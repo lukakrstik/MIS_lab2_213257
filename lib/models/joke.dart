@@ -13,7 +13,6 @@ class Joke {
       type: json['type'],
       setup: json['setup'],
       punchline: json['punchline'],
-      isFavorite: json['isFavorite']
     );
   }
 }

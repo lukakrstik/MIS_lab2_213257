@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852532701673",
+    "project_id": "jokes-mis",
+    "storage_bucket": "jokes-mis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852532701673:android:956578a26673642c404378",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi74UOBT9wjCbhmRyBLb4JIk_c2xHMReA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
